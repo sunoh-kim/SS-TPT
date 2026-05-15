@@ -1,0 +1,26 @@
+torch>=2.0.0
+transformers==4.47.1
+accelerate==1.5.2
+datasets==3.0.1
+peft==0.14.0
+safetensors==0.5.2
+tokenizers==0.21.1
+sentencepiece==0.2.0
+huggingface-hub==0.29.3
+numpy==1.26.4
+pandas
+scipy==1.14.1
+scikit-learn==1.6.1
+tqdm==4.67.1
+PyYAML==6.0.2
+pydantic==2.10.5
+torchvision
+Pillow==11.1.0
+ftfy==6.3.1
+h5py==3.13.0
+# bitsandbytes
+# opencv-python==4.11.0.86
+# albumentations==2.0.3
+# pillow==11.1.0
+# fastapi==0.115.11
+# uvicorn==0.34.0
