@@ -1,6 +1,7 @@
 # SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models
 
 Official PyTorch implementation of the ICML 2026 paper: **"SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models"**.
+📄 The paper is available at this [link](https://arxiv.org/abs/2606.06943).
 
 ## 📌 Overview
 
